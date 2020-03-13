@@ -3,4 +3,4 @@ git commit -m "comment"
 git add . 
 git push
 * git status
-proverka
+git push - загрузить обновления с сайта на десктоп
