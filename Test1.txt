@@ -1,0 +1,5 @@
+git clone https://github.com/Furuta131/Test.git
+git commit -m "comment"
+git add . 
+git push
+* git status
